@@ -18,5 +18,4 @@ class CheesesController < ApplicationController
         render json: top_cheeses
     end
 
-
 end
